@@ -5,7 +5,8 @@ const nextConfig = {
             {
                 hostname: 'tailus.io'
             }
-        ]
+        ],
+        domains: ['tailus.io']
     }
 }
 
